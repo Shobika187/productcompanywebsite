@@ -59,12 +59,12 @@ Publish the website in the given URL.
           <h1>About Us</h1>
           <img src="./img/b1.jpg" alt="Building" />
           <div class="contenttext">
-            Welcome to Fashion Gallery!
+         World of Fashion!
             At Brand Factory, online clothes shopping is a breeze, thanks to our treasure-trove of designer selections from all the top fashion houses.
             We are one of a kind online shopping website with accessible fashion for all. We bring to you: 
             1. Stylish Men and women Fashion: If you are on the hunt for stylish yet affordable men and women fashion, we have everything you need under a single roof! From office formal wear to weekend casual wear, we have you covered
            <br />
-           Welcome to Fashion Gallery online shop where you will find an amalgamation of western fashion forward styles, impeccable quality and great value.
+              World of Fashion! online shop where you will find an amalgamation of western fashion forward styles, impeccable quality and great value.
            Together, these factors make your online shopping experience with ONLY truly unique.
            Each style is created with a special ONLY feeling, which resonates with the self-confidence, style and a carefree attitude of the style conscious young woman.
             <ul>
@@ -76,7 +76,7 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 Fashion Gallery, Developed by Shobika P
+        Copyright &#169;  2045  World of Fashion!developed by Pavithra R
       </div>
     </div>
   </body>
@@ -86,14 +86,14 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Fashion Gallery</title>
+    <title> World of Fashion!</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">Fashion Gallery.</div>
+      <div class="banner"> World of Fashion!.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitemselected"><a href="/static/products.html">Products</a></div>
@@ -192,7 +192,7 @@ Publish the website in the given URL.
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 Fashion Gallery, Developed by Shobika P
+        Copyright &#169; 2045   World of Fashion! developed by Pavithra R
       </div>
     </div>
   </body>
@@ -202,14 +202,14 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Fashion Gallery</title>
+    <title> World of Fashion!</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/globee.png" type="image/x-icon" />
   </head>
   
   <body>
     <div class="container">
-      <div class="banner">Fashion Gallery.</div>
+      <div class="banner"> World of Fashion!.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitem"><a href="/static/products.html">Products</a></div>  
@@ -229,7 +229,7 @@ Publish the website in the given URL.
 
      
 <div class="footer">
-  Copyright &#169; 2021 Fashion Gallery, Developed by Shobika P
+  Copyright &#169; 2045  World of Fashion! developed by Pavithra R
 </div>
 </div>
 </body>
@@ -297,7 +297,7 @@ Publish the website in the given URL.
         <div class="itemname">Salesperson</div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 RJsoftware Private Limited, Developed by Janani.R
+        Copyright &#169; 2045 RJsoftware Private Limited, Developed by Pavithra R
       </div>
     </div>
   </body>
